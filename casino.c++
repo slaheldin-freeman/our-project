@@ -17,6 +17,9 @@ int main()
     cout << "\n\nWhat's your Name : ";
     getline(cin, playerName);
     cout << "\n\nEnter the starting balance to play game : $";
+        cout << "\n\nEnter the starting balance to play game : $";
+    cout << "\n\nEnter the starting balance to play game : $";
+
     cin >> balance;
     do
     {
